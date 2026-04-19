@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="150" src="https://pin.it/6EJgK5tFE"  />
+  <img height="150" src="<div class="tenor-gif-embed" data-postid="1774427778060906867" data-share-method="host" data-aspect-ratio="1.69388" data-width="100%"><a href="https://tenor.com/view/psyduck-psypato-pato-duck-gif-1774427778060906867">Psyduck Psypato Sticker</a>from <a href="https://tenor.com/search/psyduck-stickers">Psyduck Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>"  />
 </div>
 
 ###
