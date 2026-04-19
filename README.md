@@ -1,14 +1,5 @@
 
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maceioxz.maceioxz&"  />
-</div>
-
-###
-
-<h1 align="center"></h1>
 
 ###
 
