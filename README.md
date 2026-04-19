@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="200" src="https://ptb.discord.com/channels/@me/1494739984735932506/1495226699368103956"  />
-</div>
+
 
 ###
 
